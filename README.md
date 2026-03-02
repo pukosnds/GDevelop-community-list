@@ -129,6 +129,10 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Material 3D](https://avram.itch.io/material3d-gdevelop-extension)                               | Manipulate 3D material properties of 3D objects.                                 | [Avram](https://avram.itch.io/)                               |
 | [Persona](https://avram.itch.io/persona-gdevelop-extension)                                      | Add personality to game objects.                                                 | [Avram](https://avram.itch.io/)                               |
 | [K3D](https://kravataf.itch.io/gdevelop-extensions)                                      | Add more actions to manipulate threeJS                                                 | [Kravataf](https://github.com/Kravataf)                               |
+| [Outline 3D](https://eldritchtentacles.itch.io/outline3d)                                        | Apply true 3D mesh outline to GLB models.                                        | [Eldritch](https://eldritchtentacles.itch.io/) |
+| [PBR Maps 3D](https://eldritchtentacles.itch.io/pbrmaps3d-gdevelop-extension)                    | Add PBR maps to 3D objects.                                                      | [Eldritch](https://eldritchtentacles.itch.io/) |
+| [Texture 3D](https://eldritchtentacles.itch.io/texture3d-gdevelop-extension)                     | Replace textures or play sprite animations on 3D objects.                        | [Eldritch](https://eldritchtentacles.itch.io/) |
+| [Materials 3D](https://eldritchtentacles.itch.io/materials3d-gdevelop-extension)                 | Change material types and look of 3D objects.                                    | [Eldritch](https://eldritchtentacles.itch.io/) |
 
 # 💪 How to contribute?
 

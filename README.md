@@ -50,7 +50,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Distance of draw](https://anaw.itch.io/distanceofdraw)           | Make the object disappear if is too far away.                                                                        | [anaw studios](https://anaw.itch.io/)                               |
 | [Combo System](https://raada.itch.io/combo-system-gdevelop-extension)                  | A simple yet powerful system for creating and managing timed combos.                            | [Raada](https://raada.itch.io/)   |
 | [Finite State Machine](https://raada.itch.io/finite-state-machine-gdevelop-extension)  | Adds two powerful Finite State Machine (FSM) behaviors to GDevelop.                             | [Raada](https://raada.itch.io/)   |
-| [3D Positions And Forces](h[ttps://myaccount.itch.io/MyExtension](https://github.com/pukosnds/gdExt.3DPosAndForces)) | Adds basic and complex 3D functionalites logic-wise | [Puko]([https://myaccount.itch.io/](https://github.com/pukosnds)) |
+| [3D Positions And Forces](https://github.com/pukosnds/gdExt.3DPosAndForces) | Adds basic and complex 3D functionalites logic-wise | [Puko](https://github.com/pukosnds) |
 
 
 ## General
